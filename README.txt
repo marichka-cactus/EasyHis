@@ -23,6 +23,8 @@ There are two options for data visualisation: the frequency distribution histogr
 In the case of histogram the number of bins is 10 by default, but this parameter can be customized.
 The output is the image in PNG format.
 
+The .exe file for Windows is available via link https://drive.google.com/drive/folders/1a99g5jP7hfSNlF-1op8Ul1hcQcgW7z1h?usp=sharing
+
 Save your time and enjoy using EasyHis.
 
 
